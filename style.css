@@ -6,7 +6,7 @@ body {
 }
 
 .container {
-  width: 500px;
+  width: 700px;
   margin: 0 auto;
   padding: 44px;
 }
@@ -23,6 +23,7 @@ h2 {
 
 p {
   color: #3e3b3b;
+  font-size: 18px;
 }
 
 .btn {
